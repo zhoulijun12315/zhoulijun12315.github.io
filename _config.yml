@@ -101,4 +101,4 @@ disqus_show_comment_count: false
 #facebook_like: false
 
 # weibo share
-weibo_share:true
+weibo_share: true
